@@ -1,11 +1,13 @@
 # Homework 1 
 
-![Me](https://drive.google.com/file/d/13Oi7RaW94Y2veZz3w_w9lmAhDDDP0MyU/view?usp=drivesdk)
+![Me](https://tinyurl.com/y5ybnl62)
 
-##About Me
-###Blurb about Home
+## About Me
+
+### Blurb about Home
 I am originally from Miami, FL but, currently, my family lives in ~~south~~ southwest Florida. People who are from Miami proper insist that you refer to my part as **SOUTHWEST** Florida, rather than as *South* Florida because they somehow have sole ownership of the direction "south".
-###Languages
+
+### Languages
 I spreak three languages with varying levels of fluency:
 1. English (Native)
 2. Español/Spanish (Native)
